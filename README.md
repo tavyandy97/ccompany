@@ -6,20 +6,20 @@ CCompany, is a web application that will help a MNCs and other smaller companies
 
 ## Modules ##
 
-*Login
-  *User enters user name and password and hence can log in if the credentials are correct.
-*Employee Details
-  *Allows users to veiw their profile.
-	*Also users to change their profile picture.
-	*Allows users to set their password and update it.
-*Hiring and Firing
-	*Existing superirior personel can add their subordinates to the database
-	*Users can be deleted from the database
-*Tasks
-	*Tasks can be added
-	*Tasks can be assigned and reassigned
-	*Tasks can be veiwed along with their status and priority level.
-	*Tasks can be deleted.
+* Login
+  * User enters user name and password and hence can log in if the credentials are correct.
+* Employee Details
+  * Allows users to veiw their profile.
+	* Also users to change their profile picture.
+	* Allows users to set their password and update it.
+* Hiring and Firing
+	* Existing superirior personel can add their subordinates to the database
+	* Users can be deleted from the database
+* Tasks
+	* Tasks can be added
+	* Tasks can be assigned and reassigned
+	* Tasks can be veiwed along with their status and priority level.
+	* Tasks can be deleted.
 
 - - - -
 

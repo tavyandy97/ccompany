@@ -1,6 +1,6 @@
 # CCompany #
 
-CCompany, is a web application that will help a MNCs and other smaller companies to manage their tasks in an efficient way along with keeping track of their employs and the tasks completed by each employ. User will be able to access the information anywhere in the world, because it is a web application. If a person has to reassign a said task, he would be able to do so and rather make it a more efficient way to perform tasks. Each department will have own users and heads which will look after their department’s well-being. Main user (Managing Director) will be able to see all the employees, open tasks, closed tasks and add any employee in any department.
+CCompany, is a web application that will help MNCs and other smaller companies to manage their tasks in an efficient way along with keeping track of their employs and the tasks completed by each employ. User will be able to access the information anywhere in the world, because it is a web application. If a person has to reassign a said task, he would be able to do so and rather make it a more efficient way to perform tasks. Each department will have own users and heads which will look after their department’s well-being. Main user (Managing Director) will be able to see all the employees, open tasks, closed tasks and add any employee in any department.
 
 - - - -
 
